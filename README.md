@@ -1,6 +1,4 @@
-Here is the fully formatted `README.md` for GitHub, as you'd want it to appear with the correct formatting without the raw markdown:
 
----
 
 # LyricSyncer 🎵  
 **Effortlessly add lyrics to your music library!**  
